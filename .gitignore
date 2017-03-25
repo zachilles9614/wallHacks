@@ -505,4 +505,6 @@ $RECYCLE.BIN/
 #folders that suck
 Ehacks/wallHacks/Library/ShaderCache/*
 Ehacks/wallHacks/Library/metadata/*
+
+Ehacks/wallHacks/Temp/unityLockfile
 # End of https://www.gitignore.io/api/unity,visualstudio,macos,windows,csharp
