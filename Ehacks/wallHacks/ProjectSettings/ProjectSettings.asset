@@ -469,8 +469,8 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    Build: 0
-    Collab: 0
+    Build: 1
+    Collab: 1
     UNet: 1
   cloudProjectId: ed5be3b9-3691-4c67-a129-47e9b704aaa7
   projectName: wallHacks
